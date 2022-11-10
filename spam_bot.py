@@ -5,5 +5,5 @@ while True:
     auto.write("HAPPY BIRTHDAY")
     auto.press('enter')
     
-    sleep(1)
+    sleep(2)
 
